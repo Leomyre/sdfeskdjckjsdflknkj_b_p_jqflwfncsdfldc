@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5@6b_-13flwp7+wmgi0^(*^6(yv-a9i9kb3(xjt4@uw8v$gks1
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://backportfolio-leomyre.onrender.com',
+    'backportfolio-leomyre.onrender.com',
     'localhost',
     '127.0.0.1',
     'http://localhost:3000',]
